@@ -1,6 +1,6 @@
 # Generalized Few-Shot Object Detection without Forgetting
 
-![GitHub](https://img.shields.io/github/license/Megvii-BaseDetection/GFSD)
+![GitHub](https://camo.githubusercontent.com/5bf7c42305648dd6a90c47cc3779f1344d0db566ac345f335857117f6c935d99/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4d65677669692d42617365446574656374696f6e2f4f5441)
 
 This project provides an implementation for "[Generalized Few-Shot Object Detection without Forgetting](https://arxiv.org/pdf/2105.09491.pdf)" (CVPR2021) on PyTorch.
 
