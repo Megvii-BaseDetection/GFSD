@@ -1,6 +1,6 @@
 ## Expected dataset structure for few shot benchmarks
 Dataset for few-shot object detection benchmarks (modified from [TFA](https://github.com/ucbdrive/few-shot-object-detection)). 
-The few-shot dataset files can be found [here](http://dl.yf.io/fs-det/datasets/). 
+The few-shot dataset files can be downloaded [here](https://github.com/Megvii-BaseDetection/GFSD/releases/download/few_shot_split_files/dataset.zip). 
 They should have the following directory structure:
 
 ### Pascal VOC:
